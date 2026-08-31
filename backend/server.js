@@ -15,6 +15,9 @@ app.use(cors())
 app.use(express.json()); //json data parsing from body
 
 // Routes : 
+app.get("/", (req, res)=>{
+    res.json({msg: "welcome to Home page"})
+})
 app.use("/", thoughtRouter)
 
 // node server.j

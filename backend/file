@@ -1,0 +1,29 @@
+title: Explored the nmeaning of an interersting word: String 
+category: learning: String, enum: []
+description: Serendipity: String 
+isFavourite: yes/no: Boolean/String with enum 
+date: Date
+default: Date.now
+
+
+
+server creation 
+routes :======================
+
+
+create the thought/message: 
+fetch all the thoughts 
+update the thoght 
+Delete the thought 
+
+
+//mongodb  connection
+
+model ---->schema
+
+
+interaction with db in every route 
+
+
+
+
